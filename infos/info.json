@@ -1,0 +1,53 @@
+{"INFOS":{
+	"branchs":[
+	"main",
+	"teste0",
+	"teste1",
+	"teste2",
+	"TesteX"
+	],
+	"builddate":"19082022",
+	"commits":[
+{
+	"desc":[
+	"Funcao 1 da Funcionalidade A",
+	"Funcao 2 da Funcionalidade A"
+	],
+	"msg":"Funcionalidade A do repo principal"
+},
+
+{
+	"desc":[
+	"Funcao 1 da Funcionalidade C"
+	],
+	"msg":"Funcionalidade C de nova branch"
+},
+
+{
+	"desc":[
+	"Funcao 1 da Funcionalidade D"
+	],
+	"msg":"Funcionalidade D de teste1"
+},
+
+{
+	"desc":[
+	"Funcao 1 da Funcionalidade E"
+	],
+	"msg":"Funcionalidade E de teste2"
+},
+
+{
+	"desc":[
+
+	],
+	"msg":"Este e um commit do TesteX"
+}
+	],
+	"description":"Meu software para Objetivo X",
+	"fullversion":"1.0.0.202208",
+	"md5":"********************",
+	"sha1":"********************",
+	"version":"1.0.0"
+}
+}
