@@ -25,4 +25,8 @@
     @branch sistema-1.2
     @commit E criado uma nova versao de funcionalidades
     @description Vamos testar a navegacao para esta versao
+
+    @branch sistema-1.1
+    @commit As proximas funcionalidades serao pra esta versao
+    @description Apos criar uma nova versao, voltamos para segunda versao
 )
