@@ -44,6 +44,11 @@
 },
 {
 	"desc":[
+
+	],"msg":"Apos criar uma nova versao, volto para a versao anterior"
+},
+{
+	"desc":[
 	"Apos criar uma nova versao, voltamos para segunda versao"
 	],"msg":"As proximas funcionalidades serao pra esta versao"
 }
@@ -51,8 +56,8 @@
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
-	" ",
-	" "
+	"sistema-1.2",
+	"sistema-1.1"
 	],"sha1":"********************",
 	"version":"1.0.0"
 }
