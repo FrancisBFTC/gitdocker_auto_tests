@@ -1,63 +1,53 @@
 {"INFOS":{
 	"branchs":[
 	"main",
-	"sistema-1.0"
-	],
-	"builddate":"19082022",
+	"sistema-1.0",
+	"sistema-1.2"
+	],"builddate":"19082022",
 	"commits":[
 {
 	"desc":[
 	"Funcao 1 da Funcionalidade A",
 	"Funcao 2 da Funcionalidade A"
-	],
-	"msg":"Funcionalidade A do repo principal"
+	],"msg":"Funcionalidade A do repo principal"
 },
-
 {
 	"desc":[
 	"Aqui estou testando branchs e merge"
-	],
-	"msg":"Uma nova funcionalidade do sistema-1.0"
+	],"msg":"Uma nova funcionalidade do sistema-1.0"
 },
-
 {
 	"desc":[
 
-	],
-	"msg":"Agora sera efetuado um merge na MAIN"
+	],"msg":"Agora sera efetuado um merge na MAIN"
 },
-
 {
 	"desc":[
 	"Aqui eu desenvolvo funcionalidades para esta versao"
-	],
-	"msg":"Voltando para o sistema-1.0"
+	],"msg":"Voltando para o sistema-1.0"
 },
-
 {
 	"desc":[
-	"Apos o merge,
- ainda estou trabalhando nesta versao"
-	],
-	"msg":"Mais uma funcionalidade na mesma versao"
+	"Apos o merge, ainda estou trabalhando nesta versao"
+	],"msg":"Mais uma funcionalidade na mesma versao"
 },
-
 {
 	"desc":[
-	"apos criar +1 funcionalidade pra outra versao,
- volto para o MAIN"
-	],
-	"msg":"Voltando para o main"
+	"apos criar +1 funcionalidade pra outra versao, volto para o MAIN"
+	],"msg":"Voltando para o main"
+},
+{
+	"desc":[
+	"Vamos testar a navegacao para esta versao"
+	],"msg":"E criado uma nova versao de funcionalidades"
 }
-	],
-	"description":"Meu software para Objetivo X",
+	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
-	"sistema-1.0",
-	"main"
-	],
-	"sha1":"********************",
+	"sistema-1.2",
+	" "
+	],"sha1":"********************",
 	"version":"1.0.0"
 }
 }
