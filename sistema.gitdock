@@ -17,4 +17,8 @@
 
     @commit Mais uma funcionalidade na mesma versao
     @description Apos o merge, ainda estou trabalhando nesta versao
+
+    @branch main
+    @commit Voltando para o main
+    @description apos criar +1 funcionalidade pra outra versao, volto para o MAIN
 )
