@@ -40,6 +40,14 @@
  ainda estou trabalhando nesta versao"
 	],
 	"msg":"Mais uma funcionalidade na mesma versao"
+},
+
+{
+	"desc":[
+	"apos criar +1 funcionalidade pra outra versao,
+ volto para o MAIN"
+	],
+	"msg":"Voltando para o main"
 }
 	],
 	"description":"Meu software para Objetivo X",
@@ -47,7 +55,7 @@
 	"md5":"********************",
 	"merge":[
 	"sistema-1.0",
-	"sistema-1.0"
+	"main"
 	],
 	"sha1":"********************",
 	"version":"1.0.0"
