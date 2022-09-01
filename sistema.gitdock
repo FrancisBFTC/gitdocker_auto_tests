@@ -10,4 +10,8 @@
 
     @branch main
     @commit Agora sera efetuado um merge na MAIN
+
+    @branch sistema-1.0
+    @commit Voltando para o sistema-1.0
+    @description Aqui eu desenvolvo funcionalidades para esta versao
 )
