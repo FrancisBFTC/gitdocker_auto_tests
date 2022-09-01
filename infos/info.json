@@ -1,10 +1,6 @@
 {"INFOS":{
 	"branchs":[
-	"main",
-	"teste0",
-	"teste1",
-	"TesteX",
-	"teste2"
+	"main"
 	],
 	"builddate":"19082022",
 	"commits":[
@@ -14,81 +10,14 @@
 	"Funcao 2 da Funcionalidade A"
 	],
 	"msg":"Funcionalidade A do repo principal"
-},
-
-{
-	"desc":[
-	"Funcao 1 da Funcionalidade C"
-	],
-	"msg":"Funcionalidade C de nova branch"
-},
-
-{
-	"desc":[
-	"Funcao 1 da Funcionalidade D"
-	],
-	"msg":"Funcionalidade D de teste1"
-},
-
-{
-	"desc":[
-
-	],
-	"msg":"Este e um commit do TesteX"
-},
-
-{
-	"desc":[
-	"Funcao 1 da Funcionalidade E"
-	],
-	"msg":"Funcionalidade E de teste2"
-},
-
-{
-	"desc":[
-
-	],
-	"msg":"Novo commit da branch de teste1"
-},
-
-{
-	"desc":[
-
-	],
-	"msg":"Testando novo commit"
-},
-
-{
-	"desc":[
-
-	],
-	"msg":"Novo commit em TesteX"
-},
-
-{
-	"desc":[
-
-	],
-	"msg":"Novo commit do Teste1"
-},
-
-{
-	"desc":[
-
-	],
-	"msg":"Novo commit em Teste0"
-},
-
-{
-	"desc":[
-
-	],
-	"msg":"Este e um novo commit da branch main"
 }
 	],
 	"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
+	"merge":[
+
+	],
 	"sha1":"********************",
 	"version":"1.0.0"
 }
