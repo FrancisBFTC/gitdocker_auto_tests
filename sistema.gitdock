@@ -29,4 +29,8 @@
     @branch sistema-1.1
     @commit As proximas funcionalidades serao pra esta versao
     @description Apos criar uma nova versao, voltamos para segunda versao
+
+    @branch sistema-1.3
+    @commit New version
+    @description Creating a new version
 )
