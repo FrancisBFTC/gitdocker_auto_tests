@@ -1,12 +1,7 @@
-On branch main
-Your branch is ahead of 'origin/main' by 4 commits.
-  (use "git push" to publish your local commits)
-
+On branch teste2
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-	modified:   GitDocker.exe
-	modified:   infos/info.json
 	modified:   sistema.gitdock
 	modified:   status.txt
 
