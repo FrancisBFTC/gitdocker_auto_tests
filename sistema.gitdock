@@ -33,4 +33,8 @@
     @branch sistema-1.3
     @commit New version
     @description Creating a new version
+
+    @branch sistema-1.2
+    @commit Other version
+    @description going to the other version
 )
