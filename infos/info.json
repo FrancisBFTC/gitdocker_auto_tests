@@ -25,14 +25,21 @@
 
 	],
 	"msg":"Agora sera efetuado um merge na MAIN"
+},
+
+{
+	"desc":[
+	"Aqui eu desenvolvo funcionalidades para esta versao"
+	],
+	"msg":"Voltando para o sistema-1.0"
 }
 	],
 	"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
-	"sistema-1.0",
-	"main"
+	"main",
+	"sistema-1.0"
 	],
 	"sha1":"********************",
 	"version":"1.0.0"
