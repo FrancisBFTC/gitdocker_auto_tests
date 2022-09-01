@@ -1,6 +1,7 @@
 {"INFOS":{
 	"branchs":[
-	"main"
+	"main",
+	"sistema-1.0"
 	],
 	"builddate":"19082022",
 	"commits":[
@@ -10,13 +11,20 @@
 	"Funcao 2 da Funcionalidade A"
 	],
 	"msg":"Funcionalidade A do repo principal"
+},
+
+{
+	"desc":[
+	"Aqui estou testando branchs e merge"
+	],
+	"msg":"Uma nova funcionalidade do sistema-1.0"
 }
 	],
 	"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
-	"main"
+	"sistema-1.0"
 	],
 	"sha1":"********************",
 	"version":"1.0.0"
