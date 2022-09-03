@@ -73,13 +73,18 @@
 	"desc":[
 
 	],"msg":"Realizando o merge"
+},
+{
+	"desc":[
+
+	],"msg":"Realizando o merge para 1.4"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
 	"main",
-	"main"
+	"sistema-1.4"
 	],"sha1":"********************",
 	"version":"1.0.0"
 }
