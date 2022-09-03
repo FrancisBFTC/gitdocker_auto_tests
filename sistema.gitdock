@@ -6,6 +6,7 @@
 
     @commit Realizando o merge
     @commit Realizando outro merge
+    @commit Testing new modifications
 
     @branch sistema-1.0
     @commit Uma nova funcionalidade do sistema-1.0
@@ -46,5 +47,9 @@
     @description going to the other version 2
 
     @commit Realizando o merge para 1.4
+
+    @branch sistema-1.5
+    @commit Testando as novas modificacoes
+    @description Executando git no modo silencioso
     
 )
