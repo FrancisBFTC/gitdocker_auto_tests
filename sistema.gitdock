@@ -7,6 +7,7 @@
     @commit Realizando o merge
     @commit Realizando outro merge
     @commit Testing new modifications
+    @commit Testing new modifications 2
 
     @branch sistema-1.0
     @commit Uma nova funcionalidade do sistema-1.0
