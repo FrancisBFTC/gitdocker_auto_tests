@@ -4,6 +4,8 @@
     @description Funcao 1 da Funcionalidade A
     @description Funcao 2 da Funcionalidade A
 
+    @commit Realizando o merge
+
     @branch sistema-1.0
     @commit Uma nova funcionalidade do sistema-1.0
     @description Aqui estou testando branchs e merge
@@ -21,4 +23,25 @@
     @branch main
     @commit Voltando para o main
     @description apos criar +1 funcionalidade pra outra versao, volto para o MAIN
+
+    @branch sistema-1.2
+    @commit E criado uma nova versao de funcionalidades
+    @description Vamos testar a navegacao para esta versao
+
+    @branch sistema-1.1
+    @commit As proximas funcionalidades serao pra esta versao
+    @description Apos criar uma nova versao, voltamos para segunda versao
+
+    @branch sistema-1.3
+    @commit New version
+    @description Creating a new version
+
+    @branch sistema-1.2
+    @commit Other version
+    @description going to the other version
+
+    @branch sistema-1.4
+    @commit Other version 2
+    @description going to the other version 2
+    
 )
