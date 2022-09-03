@@ -109,13 +109,38 @@
 	"desc":[
 
 	],"msg":"Testando as novas modificacoes 5"
+},
+{
+	"desc":[
+
+	],"msg":"Testando as novas modificacoes 6"
+},
+{
+	"desc":[
+
+	],"msg":"Testando as novas modificacoes 7"
+},
+{
+	"desc":[
+
+	],"msg":"Testando as novas modificacoes 8"
+},
+{
+	"desc":[
+
+	],"msg":"Testando as novas modificacoes 9"
+},
+{
+	"desc":[
+
+	],"msg":"Testing new modifications 10"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
-	"main",
-	"sistema-1.5"
+	"sistema-1.5",
+	"main"
 	],"sha1":"********************",
 	"version":"1.0.0"
 }
