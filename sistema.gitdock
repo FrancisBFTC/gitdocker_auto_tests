@@ -7,6 +7,8 @@
     @commit Realizando o merge
     @commit Realizando outro merge
     @commit Testing new modifications
+    @commit Testing new modifications 2
+    @commit Testing new modifications 3
 
     @branch sistema-1.0
     @commit Uma nova funcionalidade do sistema-1.0
@@ -51,5 +53,7 @@
     @branch sistema-1.5
     @commit Testando as novas modificacoes
     @description Executando git no modo silencioso
+
+    @commit Testando as novas modificacoes 5
     
 )
