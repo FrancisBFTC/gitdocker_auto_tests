@@ -104,13 +104,18 @@
 	"desc":[
 
 	],"msg":"Testing new modifications 3"
+},
+{
+	"desc":[
+
+	],"msg":"Testando as novas modificacoes 5"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
 	"main",
-	"main"
+	"sistema-1.5"
 	],"sha1":"********************",
 	"version":"1.0.0"
 }
